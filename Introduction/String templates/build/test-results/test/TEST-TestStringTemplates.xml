@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestStringTemplates" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-05T15:20:10" hostname="gor-Lenovo-ideapad-500-15ISK" time="0.016">
+  <properties/>
+  <testcase name="match1" classname="TestStringTemplates" time="0.013"/>
+  <testcase name="match" classname="TestStringTemplates" time="0.001"/>
+  <testcase name="doNotMatch" classname="TestStringTemplates" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
